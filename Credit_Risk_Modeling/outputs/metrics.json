@@ -1,0 +1,12 @@
+{
+  "Logistic Regression (WOE)": {
+    "AUC": 0.7381,
+    "KS": 0.3786,
+    "Gini": 0.4762
+  },
+  "LightGBM": {
+    "AUC": 0.7496,
+    "KS": 0.3791,
+    "Gini": 0.4991
+  }
+}

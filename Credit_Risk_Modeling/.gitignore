@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# Raw data can be large / licensed -- don't commit it
+data/raw/
+*.csv.gz
+
+# Keep the synthetic demo dataset small file out of git if you regenerate it,
+# but it's fine to commit application_data.csv since it's synthetic & small.
