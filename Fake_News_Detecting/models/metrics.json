@@ -1,0 +1,67 @@
+{
+    "Tuned Logistic Regression": {
+        "accuracy": 0.9239302694136292,
+        "precision": 0.9266347687400319,
+        "recall": 0.9207606973058637,
+        "f1_score": 0.9236883942766295,
+        "confusion_matrix": [
+            [
+                585,
+                46
+            ],
+            [
+                50,
+                581
+            ]
+        ]
+    },
+    "Naive Bayes": {
+        "accuracy": 0.8779714738510301,
+        "precision": 0.9035532994923858,
+        "recall": 0.8462757527733756,
+        "f1_score": 0.8739770867430442,
+        "confusion_matrix": [
+            [
+                574,
+                57
+            ],
+            [
+                97,
+                534
+            ]
+        ]
+    },
+    "Random Forest": {
+        "accuracy": 0.9009508716323297,
+        "precision": 0.9174917491749175,
+        "recall": 0.8811410459587956,
+        "f1_score": 0.898949070331447,
+        "confusion_matrix": [
+            [
+                581,
+                50
+            ],
+            [
+                75,
+                556
+            ]
+        ]
+    },
+    "Passive Aggressive": {
+        "accuracy": 0.9136291600633915,
+        "precision": 0.910377358490566,
+        "recall": 0.9175911251980983,
+        "f1_score": 0.9139700078926598,
+        "confusion_matrix": [
+            [
+                574,
+                57
+            ],
+            [
+                52,
+                579
+            ]
+        ]
+    },
+    "best_model": "Tuned Logistic Regression"
+}
