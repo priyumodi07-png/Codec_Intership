@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+
+# Virtual Environment
+.venv/
+venv/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Environment
+.env
+
+
+# VS Code
+.vscode/
+
+
+# System
+.DS_Store
+
+
+# Cache
+.cache/
+
+# Dataset files
+data/raw/*
+data/processed/*
+
+# keep folders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
