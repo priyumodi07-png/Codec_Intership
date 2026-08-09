@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-NLP-green)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
 ## 📌 Overview
@@ -27,21 +26,7 @@ The project includes complete ML workflow:
 
 ---
 
-# 🚀 Live Demo
 
-Experience TruthGuard AI here:
-
-🔗 Live Application:
-
-https://fake-news-detection-vk18.streamlit.app/
-
-
-🔗 GitHub Repository:
-
-https://github.com/deepakjha018/Fake-News-Detection
-
-
----
 
 # 📸 Application Screenshots
 
@@ -180,7 +165,7 @@ Fake-News-Detection/
 
 
 ```bash
-git clone https://github.com/deepakjha018/Fake-News-Detection.git
+git clone https://github.com/priyumodi07-png/Fake-News-Detection.git
 ```
 
 
@@ -272,20 +257,5 @@ Deployment Features:
 - Real-time fact checking APIs
 
 
----
-
-# 👨‍💻 Developer
 
 
-Developed by:
-
-**Deepak Kumar Jha**
-
-AI & Data Science Student
-
-Passionate about Machine Learning, Artificial Intelligence and Data Science.
-
-
----
-
-⭐ If you found this project helpful, consider giving it a star!
